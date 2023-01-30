@@ -1,0 +1,24 @@
+{
+  "name": "nodejs2plus",
+  "version": "1.0.0",
+  "description": "viet",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeJs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.20.1",
+    "morgan": "^1.10.0"
+  }
+}
